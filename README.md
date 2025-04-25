@@ -26,7 +26,7 @@ This chatbot leverages the FinRobot financial AI model to provide financial anal
    ```
 
 2. **API Key Setup**:
-   - The API key has been updated in the OAI_CONFIG_LIST file
+   - You'll need openAI api key for running this chatbot on your system.
    - For production deployment, use environment variables or Streamlit secrets
 
 3. **Run the chatbot**:
