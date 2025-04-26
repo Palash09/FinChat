@@ -109,7 +109,7 @@ with st.sidebar:
             # Create a config list programmatically instead of from file
             config_list = [
                 {
-                    "model": "gpt-4-0125-preview",
+                    "model": "gpt-3.5-turbo",
                     "api_key": api_key
                 }
             ]
